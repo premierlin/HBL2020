@@ -8,7 +8,5 @@
         <li> Learn more ways of storing data (e.g. SQL, CSV) </li>
         <li> Start working on a project which allows interactions with the webpage </li>
         <li> try to make use of the different sorting methods for data - Bubble sorting!! </li>
-
-
     </body>
 </html>
