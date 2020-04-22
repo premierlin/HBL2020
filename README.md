@@ -1,16 +1,6 @@
 <!DOCTYPE html>
 
 <html>
-<style>
-.grad {
-    background-image: linear-gradient(315deg, #734ae8 0%, #89d4cf 74%);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-}
-
-</style>
-
-
     <head>
         <p> Hello, I am Lin Junyu, and this is my HBL schedule! :D </p>
     </head>
